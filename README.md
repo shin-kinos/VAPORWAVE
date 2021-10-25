@@ -26,6 +26,8 @@
 
 ~ 
 
+![VaporWave](https://user-images.githubusercontent.com/83740080/138678384-dd4eb566-7f3a-4b90-8857-57fc209f31d0.gif)
+
 Ｈａｖｅ　Ａ　Ｎｉｃｅ　Ｄａｙ．　だで炎ザ
 
 Ｈａｖｅ░Λ░Ｎｉｃｅ░Ｄａｙ．　（だで炎ザ）
