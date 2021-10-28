@@ -9,7 +9,7 @@ A R program that generates a heatmap GIF animation with randomized values.
 
 * R (version 4.1.0 or more)
 
-	* Required packages
+* Required packages
 	* ggplot2 (version 3.3.5 or more)
 	* gganimate (version 1.0.7 or more)
 	* gifski (version 1.4.3.1 or more)
