@@ -1,0 +1,23 @@
+
+A R program that generates a heatmap GIF animation with randomized values.
+
+- Requirements 
+
+* ImageMagick (version 7.1.0-10 or more)
+
+- Dependencies 
+
+* R (version 4.1.0 or more)
+
+	* Required packages
+	* ggplot2 (version 3.3.5 or more)
+	* gganimate (version 1.0.7 or more)
+	* gifski (version 1.4.3.1 or more)
+	* ggimage (version 0.2.8 or more)
+
+
+Then, you can run this program on your terminal.
+
+[e.g]
+% Rscript VaporWave
+
