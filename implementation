@@ -19,5 +19,5 @@ A R program that generates a heatmap GIF animation with randomized values.
 Then, you can run this program on your terminal.
 
 [e.g]
-% Rscript VaporWave
+% Rscript VaporWave.r
 
